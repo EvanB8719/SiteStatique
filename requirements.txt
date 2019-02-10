@@ -1,0 +1,4 @@
+You must have python 3
+you have to download click and markdown2:
+pip install click
+pip install markdown2
